@@ -10,7 +10,7 @@ This project demonstrates a methodology for assessing territorial conditions by:
 3. Creating supplemental grids for undefined areas
 4. Evaluating urbanization levels
 
-![Workflow Diagram](images\scheme.png)
+![WorkFlow Diagram](images/scheme.png)
 
 ## Features
 - **OSM Data Extraction**: Fetch building/land-use data from OpenStreetMap
@@ -46,7 +46,7 @@ This project demonstrates a methodology for assessing territorial conditions by:
    - Assign landuse categories to grid cells
 ```
 ## Installation
-git clone https://github.com/yourusername/TerritorialConditionAssessment.git \
+git clone https://github.com/Voronapxl/CTAMethod.git \
 pip install -r requirements.txt
 
 
