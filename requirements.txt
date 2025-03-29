@@ -1,0 +1,5 @@
+geopandas
+pandas
+osmnx
+numpy
+shapely
