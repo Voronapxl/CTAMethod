@@ -45,9 +45,24 @@ This project demonstrates a methodology for assessing territorial conditions by:
    - Digitize official zoning maps
    - Assign landuse categories to grid cells
 ```
+## Structure
+- Examples directory: Jupyter Notebook file with source code with full pipeline
+- Data directory: directory with main information sources for calculations
+
 ## Installation
 git clone https://github.com/Voronapxl/CTAMethod.git \
 pip install -r requirements.txt
+
+## Usage
+1. Install requirements from requirements.txt
+2. Open Jupyter Notebook file in Examples directory
+3. Follow the pipeline in Jupyter Notebook file
+
+## Contributors
+
+- Chichkov Egor Andreevich, IDU ITMO [@RaNCer533](https://github.com/RaNCer533) — methodology design, core implementation, initial codebase.
+- Vorona Vladimir Andreevich, IDU ITMO [@Voronapxl](https://github.com/Voronapxl) — method enhancements, refactoring.
+- Chichkova Natalya Andreevna, IDU ITMO [@nancyan](https://github.com/nancyan) — methodology design, data sourcing, conceptual advisory.
 
 
 
